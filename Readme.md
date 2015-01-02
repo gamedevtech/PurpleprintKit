@@ -1,15 +1,15 @@
 # Purpleprint Kit
 
 ## Definition:
-Is a supply kit with materials, textures, 3d models, 2d models & example content/levels to test things with the engine/game, desing levels, learn to use the engines and more. 
-With support for Unreal Engine 4 & Urho3D engine, but be free to use the content with other game engines or projects as long you give the credit to the original author.
+Is a supply kit with materials, textures, 3d models, 2d models & example content/levels to test things with the engine/game, desing levels, learn to use the engines and more.  
+With support for Unreal Engine 4 & Urho3D engine, but be free to use the content with other game engines or projects as long you give the credit to the original author.  
 
 
 
 ## Information:
-Project Name: Purpleprint Kit
-Current Version: 0.2.1
-Author: David Palacios (Hevedy) <https://github.com/Hevedy>
+Project Name: Purpleprint Kit  
+Current Version: 0.2.1  
+Author: David Palacios (Hevedy) <https://github.com/Hevedy>  
 
 
 
@@ -25,14 +25,14 @@ Author: David Palacios (Hevedy) <https://github.com/Hevedy>
 - Textures with color palettes to check the scene light & post process.
 - Chroma colors.
 - Example maps.
-- Projects for Urho3D & Unreal Engine 4.
+- Projects for Urho3D & Unreal Engine 4.  
 
 
 
 ## Screenshots:
-![alt text][Screenshot01]
-![alt text][Screenshot02]
-![alt text][Screenshot03]
+![alt text][Screenshot01]  
+![alt text][Screenshot02]  
+![alt text][Screenshot03]  
 
 
 
