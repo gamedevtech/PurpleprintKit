@@ -10,7 +10,7 @@ With support for Unreal Engine 4 & Urho3D engine, but be free to use the content
 Project Name: Purpleprint Kit  
 Current Version: 0.2.1  
 Author: David Palacios (Hevedy) <https://github.com/Hevedy>  
-
+Work fine in Unreal Engine 4.6.1 & Urho3D 1.32.
 
 
 ## Overall Content:
@@ -48,9 +48,21 @@ work.  If not, see <http://creativecommons.org/licenses/by/3.0/>.
 Unreal® is a trademark or registered trademark of Epic Games, Inc. in the United States of America and elsewhere.
 Unreal® Engine, Copyright 1998 – 2014, Epic Games, Inc. All rights reserved.
 
-*This license include all files (images, screenshots, textures, materials, maps, levels, shaders, 3D models, 2D models, Source files, Blend files...).
-For more info about the license check the license file "Purpleprint Kit - License.txt".
+*This license include all files (images, screenshots, textures, materials, maps, levels, shaders, 3D models, 2D models, Source files, Blend files...).  
+For more info about the license check the license file "Purpleprint Kit - License.txt".  
 
+You can use the Purpleprint Kit and the content as long you give the credit to the original author and add the license.  
+If you don't like use the CC-BY license, contant with me in the Unreal Engine 4 forums, Urho3D forums, Twitter or Github to reach an agreement. 
+
+Donations are appreciated thanks.  
+```html
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+	<input type="hidden" name="cmd" value="_s-xclick">
+	<input type="hidden" name="hosted_button_id" value="JY2K4X6YVB5J4">
+	<input type="image" src="https://www.paypalobjects.com/en_US/ES/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypalobjects.com/es_ES/i/scr/pixel.gif" width="1" height="1">
+</form>
+```
 
 
 ## Websites:
@@ -79,7 +91,7 @@ By David Palacios (Hevedy) <https://github.com/Hevedy>.
 [PurpleprintKitGithub]: https://github.com/Hevedy/PurpleprintKit
 [Urho3DGithub]: https://github.com/urho3d/Urho3D
 [Urho3DWebsite]: http://urho3d.github.io/
-[Urho3DPostPK]: http://urho3d.prophpbb.com/forum5.html?sid=e65533b29386360964f03b83876e0ea5
+[Urho3DPostPK]: http://urho3d.prophpbb.com/topic727.html
 [UE4Github]: https://github.com/EpicGames/UnrealEngine
 [UE4Website]: https://www.unrealengine.com/
 [UE4PostPK]: https://forums.unrealengine.com/forumdisplay.php?12-Community-Content-Tools-and-Tutorials
