@@ -8,7 +8,7 @@ With support for Unreal Engine 4 & Urho3D engine, but be free to use the content
 
 ## Information:
 Project Name: Purpleprint Kit  
-Current Version: 0.2.1  
+Current Version: 0.2.3  
 Author: David Palacios (Hevedy) <https://github.com/Hevedy>  
 Work fine in Unreal Engine 4.6.1 & Urho3D 1.32.
 
@@ -54,8 +54,8 @@ For more info about the license check the license file "Purpleprint Kit - Licens
 You can use the Purpleprint Kit and the content as long you give the credit to the original author and add the license.  
 If you don't like use the CC-BY license, contant with me in the Unreal Engine 4 forums, Urho3D forums, Twitter or Github to reach an agreement. 
 
+[![Donate via PayPal](https://www.paypalobjects.com/en_US/ES/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JY2K4X6YVB5J4)  
 Donations are appreciated thanks.  
-[![Donate via PayPal](https://www.paypalobjects.com/en_US/ES/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JY2K4X6YVB5J4)
 
 
 
