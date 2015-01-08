@@ -8,22 +8,26 @@ With support for Unreal Engine 4 & Urho3D engine, but be free to use the content
 
 ## Information:
 Project Name: Purpleprint Kit  
-Current Version: 0.2.3  
+Current Version: 0.8.0  
 Author: David Palacios (Hevedy) <https://github.com/Hevedy>  
-Work fine in Unreal Engine 4.6.1 & Urho3D 1.32.
+Trello: [Link][Trello]  
+Work fine in Unreal Engine 4.6.1 & Urho3D 1.32.  
+All content have been created by David Palacios (Hevedy) but the font for the text in textures are third-party [Roboto][Roboto].  
 
 
 ## Overall Content:
-- More than 100 textures.
-- More than 120 materials.
-- More than 10 basic 3D models in FBX & OBJ (Include source Blend files).
+- More than 300 textures (Include uncompressed files).
+- More than 320 * 2 materials (For Unreal Engine 4 & Urho3D).
+- More than 40 basic 3D models in FBX & OBJ (Include Blender source files).
+- 3D reference models.
 - Patterns to create your custom textures.
 - Reference textures.
 - Entity textures.
-- Collisions, Triggers, Volumes textures.
+- Collisions, Triggers, Volumes textures...
 - Colors & basic materials setup in shaders.
 - Textures with color palettes to check the scene light & post process.
 - Chroma colors.
+- Shapes, letters & numbers textures.
 - Example maps.
 - Projects for Urho3D & Unreal Engine 4.  
 
@@ -89,3 +93,5 @@ By David Palacios (Hevedy) <https://github.com/Hevedy>.
 [UE4Github]: https://github.com/EpicGames/UnrealEngine
 [UE4Website]: https://www.unrealengine.com/
 [UE4PostPK]: https://forums.unrealengine.com/forumdisplay.php?12-Community-Content-Tools-and-Tutorials
+[Trello]: https://trello.com/b/vx7Ydo7I/public-projects
+[Roboto]: http://www.google.com/fonts/specimen/Roboto
