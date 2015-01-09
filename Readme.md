@@ -8,7 +8,7 @@ With support for Unreal Engine 4 & Urho3D engine, but be free to use the content
 
 ## Information:
 Project Name: Purpleprint Kit  
-Current Version: 0.8.0  
+Current Version: 0.8.1  
 Author: David Palacios (Hevedy) <https://github.com/Hevedy>  
 Trello: [Link][Trello]  
 Work fine in Unreal Engine 4.6.1 & Urho3D 1.32.  
