@@ -92,6 +92,6 @@ By David Palacios (Hevedy) <https://github.com/Hevedy>.
 [Urho3DPostPK]: http://urho3d.prophpbb.com/topic727.html
 [UE4Github]: https://github.com/EpicGames/UnrealEngine
 [UE4Website]: https://www.unrealengine.com/
-[UE4PostPK]: https://forums.unrealengine.com/forumdisplay.php?12-Community-Content-Tools-and-Tutorials
+[UE4PostPK]: https://forums.unrealengine.com/showthread.php?55984-Purpleprint-Kit-for-Unreal-Engine-4-amp-Urho3D
 [Trello]: https://trello.com/b/vx7Ydo7I/public-projects
 [Roboto]: http://www.google.com/fonts/specimen/Roboto
